@@ -1,4 +1,4 @@
-:ledger: Picturebook
+Picturebook
 
 —
 
